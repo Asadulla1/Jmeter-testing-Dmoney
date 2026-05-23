@@ -170,6 +170,12 @@ Test Plan
 
 ---
 
+## Test Results
+### Result image: 
+<img width="1898" height="1375" alt="result" src="https://github.com/user-attachments/assets/b7611cb1-0045-4b46-b12d-4e9869d4f3a2" />
+
+---
+
 ## Request Headers
 
 ```http
